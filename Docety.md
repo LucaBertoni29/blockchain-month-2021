@@ -49,7 +49,7 @@ https://live.blockcypher.com/bcy/decodetx/
 
 ## Node Check
 
-Utile per verificare se il proprio nodo è raggiungibile dell'esterni
+Utile per verificare se il proprio nodo è raggiungibile dell'esterno
 
 - https://bitnodes.io/#join-the-network
 
