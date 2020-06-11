@@ -1,4 +1,4 @@
-# Workshop
+# Docety
 
 Repository creata per contenere tutti i file, approfondimenti e link, utili o trattati all'interno di Docety
 
