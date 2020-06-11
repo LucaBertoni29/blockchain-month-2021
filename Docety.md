@@ -2,7 +2,7 @@
 
 ------
 
-# Introduzione
+# 
 
 ## White Paper BITCOIN
 - https://bitcoin.org/files/bitcoin-paper/bitcoin_it.pdf
