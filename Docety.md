@@ -2,10 +2,12 @@
 
 ------
 
-# Link Utili
-
 ## White Paper BITCOIN
 - https://bitcoin.org/files/bitcoin-paper/bitcoin_it.pdf
+
+------
+
+# Link Utili di funzionamento
 
 ## SHA256
 - http://www.sha1-online.com/
