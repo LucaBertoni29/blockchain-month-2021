@@ -20,6 +20,18 @@
 
 ------
 
+# Block explorer
+
+## Chain
+
+- https://blockstream.info/
+
+## Lightning Network
+
+- https://explorer.acinq.co/
+
+------
+
 # Tools
 
 ## Nodo Bitcoin
@@ -35,18 +47,16 @@ https://live.blockcypher.com/bcy/decodetx/
 
 - https://iancoleman.io/bip39/
 
-------
+## Node Check
 
-# Block explorer
+Utile per verificare se il proprio nodo è raggiungibile dell'esterni
 
-## Chain
+- https://bitnodes.io/#join-the-network
 
-- https://blockstream.info/
-
-## Lightning Network
-
-- https://explorer.acinq.co/
+1ml offre le stesse possibilità bitnodes su Lightning Network
 
 - https://1ml.com/
+
+
 
 
