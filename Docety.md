@@ -22,6 +22,11 @@
 
 # Tools
 
+## Nodo Bitcoin
+Per chi non dispondesse di un nodo bitcoin locale, chainquery può essere un ottimo tool per fare dei test
+
+- https://chainquery.com/bitcoin-cli
+
 ## Decode Transaction
 
 https://live.blockcypher.com/bcy/decodetx/
@@ -29,12 +34,6 @@ https://live.blockcypher.com/bcy/decodetx/
 ## Mnemonic Code Converter
 
 - https://iancoleman.io/bip39/
-
-
-## Nodo Bitcoin
-Per chi non dispondesse di un nodo bitcoin locale, chainquery può essere un ottimo tool per fare dei test
-
-- https://chainquery.com/bitcoin-cli
 
 ------
 
