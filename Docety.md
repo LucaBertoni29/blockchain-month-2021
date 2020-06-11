@@ -29,14 +29,8 @@ https://iancoleman.io/bip39/
 https://blockstream.info/
 
 ## Lightning Network
+
 https://explorer.acinq.co/
 
 https://1ml.com/
 
-
-
-------
-
-# Docety
-
-https://www.docety.com/coachs/21431/dettagli/Bertoni+Luca
