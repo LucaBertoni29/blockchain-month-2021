@@ -7,7 +7,7 @@
 
 ------
 
-# Link Utili di funzionamento
+# Funzionamento
 
 ## SHA256
 - http://www.sha1-online.com/
