@@ -41,7 +41,7 @@ Per chi non dispondesse di un nodo bitcoin locale, chainquery può essere un ott
 
 ## Decode Transaction
 
-https://live.blockcypher.com/bcy/decodetx/
+- https://live.blockcypher.com/bcy/decodetx/
 
 ## Mnemonic Code Converter
 
