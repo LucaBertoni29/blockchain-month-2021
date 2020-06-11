@@ -1,4 +1,4 @@
-# Docety
+# Docety - Il sapere faccia a faccia
 
 ------
 
