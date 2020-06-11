@@ -14,7 +14,12 @@ https://andersbrownworth.com/blockchain/block
 ## Blockchain
 https://andersbrownworth.com/blockchain/blockchain
 
+------
+
+# Tools
+
 ## DecodeTransaction
+
 https://live.blockcypher.com/bcy/decodetx/
 
 ## Mnemonic Code Converter
@@ -22,6 +27,7 @@ https://live.blockcypher.com/bcy/decodetx/
 https://iancoleman.io/bip39/
 
 ------
+
 # Block explorer
 
 ## Chain
