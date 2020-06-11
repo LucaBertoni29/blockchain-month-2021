@@ -3,16 +3,16 @@
 ------
 
 ## White Paper BITCOIN
-https://bitcoin.org/files/bitcoin-paper/bitcoin_it.pdf
+- https://bitcoin.org/files/bitcoin-paper/bitcoin_it.pdf
 
 ## SHA256
-http://www.sha1-online.com/
+- http://www.sha1-online.com/
 
 ## Blocco
-https://andersbrownworth.com/blockchain/block
+- https://andersbrownworth.com/blockchain/block
 
 ## Blockchain
-https://andersbrownworth.com/blockchain/blockchain
+- https://andersbrownworth.com/blockchain/blockchain
 
 ------
 
@@ -24,7 +24,7 @@ https://live.blockcypher.com/bcy/decodetx/
 
 ## Mnemonic Code Converter
 
-https://iancoleman.io/bip39/
+- https://iancoleman.io/bip39/
 
 ------
 
@@ -32,11 +32,11 @@ https://iancoleman.io/bip39/
 
 ## Chain
 
-https://blockstream.info/
+- https://blockstream.info/
 
 ## Lightning Network
 
-https://explorer.acinq.co/
+- https://explorer.acinq.co/
 
-https://1ml.com/
+- https://1ml.com/
 
