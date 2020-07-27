@@ -53,7 +53,7 @@ Utile per verificare se il proprio nodo è raggiungibile dell'esterno
 
 - https://bitnodes.io/#join-the-network
 
-1ml offre le stesse possibilità bitnodes su Lightning Network
+1ml offre le stesse possibilità di bitnodes su Lightning Network
 
 - https://1ml.com/
 
