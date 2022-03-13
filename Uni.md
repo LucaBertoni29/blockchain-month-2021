@@ -20,12 +20,6 @@ https://www.taringamberini.com/it/diceware_it_IT/lista-di-parole-diceware-in-ita
 - https://keepassxc.org/
 - https://keepass.info/
 
-### Browser
-- https://www.mozilla.org/it/firefox/new/
-- https://www.torproject.org/
-- http://bit.ly/brave-ita
-- https://www.chromium.org/
-
 ### Estensioni per browser
 - https://www.eff.org/privacybadger
 - https://www.eff.org/https-everywhere
@@ -34,34 +28,14 @@ https://www.taringamberini.com/it/diceware_it_IT/lista-di-parole-diceware-in-ita
 ### Software Wallet
 - https://wasabiwallet.io/
 - https://electrum.org/
-
----
-
-## Hardware
-
-### Hardware Wallet
-http://bit.ly/coldcard
-
-### Autenticazione a 2 Fattori
-https://www.yubico.com/
-
-------
-
-## Backup seed
-http://bit.ly/cryptosteelcapsule
+- https://bluewallet.io/
 
 ------
 
 ## Servizi e siti web
 
-### Faucet Testnet per testare Wasabi Wallet
-- https://bitcoinfaucet.uo1.net/
-- https://coinfaucet.eu/en/btc-testnet/
-- https://testnet.help/en/btcfaucet/testnet
-
 ### Blockchain explorer
 - https://blockstream.info/
-- http://explorerzydxu5ecjrkwceayqybizmpjjznk5izmitf2modhcusuqlid.onion/
 
 ### Test privacy transazioni
 - https://oxt.me/
@@ -69,18 +43,7 @@ http://bit.ly/cryptosteelcapsule
 - https://www.kycp.org/ 
 - - Cluster di transazioni Joinmarket: https://www.kycp.org/#/45a6a8d0770a45781e3ae37f1bcd31031d7634437b8b35ea785d6ac9693c12bf
 
-### Exchange
-- http://bit.ly/bitfinex-ita
-- https://bisq.network/
-
 ------
-
-## Sistema operativo
-https://tails.boum.org/
-
-------
-
-## Link e video vari
 
 ### Hacking di airgapped wallet
 - https://wallet.fail/
