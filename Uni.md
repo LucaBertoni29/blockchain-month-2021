@@ -16,10 +16,6 @@ https://www.taringamberini.com/it/diceware_it_IT/lista-di-parole-diceware-in-ita
 
 ## Software
 
-### Password Manager
-- https://keepassxc.org/
-- https://keepass.info/
-
 ### Estensioni per browser
 - https://www.eff.org/privacybadger
 - https://www.eff.org/https-everywhere
