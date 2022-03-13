@@ -37,12 +37,6 @@ https://www.taringamberini.com/it/diceware_it_IT/lista-di-parole-diceware-in-ita
 ### Blockchain explorer
 - https://blockstream.info/
 
-### Test privacy transazioni
-- https://oxt.me/
-- - Cluster di transazioni Joinmarket: https://oxt.me/bookmark/5db6cfaee5c1650eb0032e20
-- https://www.kycp.org/ 
-- - Cluster di transazioni Joinmarket: https://www.kycp.org/#/45a6a8d0770a45781e3ae37f1bcd31031d7634437b8b35ea785d6ac9693c12bf
-
 ------
 
 ### Hacking di airgapped wallet
