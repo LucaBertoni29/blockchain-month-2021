@@ -1,4 +1,4 @@
-# Workshop "Università"
+# Workshop "Il mondo delle Criptovalute"
 
 ------
 
@@ -22,6 +22,7 @@ https://www.taringamberini.com/it/diceware_it_IT/lista-di-parole-diceware-in-ita
 - https://github.com/gorhill/uBlock
 
 ### Software Wallet
+- https://www.sparrowwallet.com/
 - https://wasabiwallet.io/
 - https://electrum.org/
 - https://bluewallet.io/
