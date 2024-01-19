@@ -26,10 +26,6 @@
 
 - https://blockstream.info/
 
-## Lightning Network
-
-- https://explorer.acinq.co/
-
 ------
 
 # Tools
