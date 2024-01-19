@@ -57,15 +57,3 @@ Utile per verificare se il proprio nodo è raggiungibile dell'esterno
 
 - https://1ml.com/
 
-------
-
-# Wallet
-
-## Blue Wallet
-
-- https://bluewallet.io/
-
-## Electrum
-
-- https://electrum.org/
-
