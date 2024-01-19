@@ -1,4 +1,4 @@
-# Docety - Il sapere faccia a faccia
+# Blockchain Month 2021
 
 ------
 
